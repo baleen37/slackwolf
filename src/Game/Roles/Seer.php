@@ -21,6 +21,6 @@ class Seer extends Role
      * {@inheritdoc}
      */
 	public function getDescription() {
-		return "A villager who, once each night, is allowed to see the role of another player. The bot will private message you.";
+		return "[시민] 밤마다 플레이어의 직업을 알 수 있습니다.(시민, 울프인지만 표시)";
 	}
 }

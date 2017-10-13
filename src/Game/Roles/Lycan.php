@@ -34,6 +34,6 @@ class Lycan extends Role
      * {@inheritdoc}
      */
 	public function getDescription() {
-		return "A villager who appears to the Seer as a Werewolf.";
+    return "[시민] Seer에게 Werewolf로 보입니다.";
 	}
 }
